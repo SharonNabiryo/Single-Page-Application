@@ -69,6 +69,15 @@ h1 {
   text-shadow: 0 0 10px black;
 }
 
+h2 {
+  color: yellowgreen;
+  font-size: 2rem;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  text-shadow: 0 0 10px black;
+}
+
 .card {
   height: 500px;
   width: 800px;
